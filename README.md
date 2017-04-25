@@ -14,3 +14,7 @@ Follow the step:-
 2. npm run webpack or npm run webpack:watch
 3. npm run server
 4. after run server page open in browser with http://127.0.0.1:9000/ this URL.
+
+
+Demo:- 
+https://www.screencast.com/t/wGyQv0f5liG 
