@@ -1,0 +1,38 @@
+header {
+    background-color: #03A9F4;
+    padding: 14px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    margin:0 0 25px 0 !important;
+}
+header > h1 {
+    font-weight: 300;
+    font-size: 24px;
+    margin: 0;
+    color: #FFFFFF;
+}
+#app__app___1JwFe{
+    margin:25px 0 0 0 !important;
+}
+#app__app___1JwFe .app__app___1JwFe{
+    margin:25px 0 0 0;
+}
+#app__app___1JwFe .app__row___3ypGh {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.app__show-grid___2zTTm, .app__row___3ypGh, .app__form-horizontal___3b0pm, .app__form-group___2hnIX{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.app__react-datepicker__input-container___2a4st{
+    display: block !important;
+}
+span.app__error___2uCs-{
+    color: #ff0000 !important;
+}
+
+#app__app___1JwFe span.app__error___2uCs-{
+    color: #ff0000 !important;
+}
+
+/*# sourceMappingURL=bundle.css.map*/
